@@ -26,7 +26,7 @@
 ##  Installation and Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ayamashalyy/moive.git
+   git clone https://github.com/ayamashalyy/Movies.git
 
 2. Install Dependencies:pod install
 
