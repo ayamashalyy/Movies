@@ -7,7 +7,6 @@ target 'Movies' do
 
   # Pods for Movies
    pod 'SDWebImage'
-   pod 'RealmSwift'
    pod 'SwiftyGif'
 
 

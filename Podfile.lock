@@ -1,32 +1,22 @@
 PODS:
-  - Realm (10.39.1):
-    - Realm/Headers (= 10.39.1)
-  - Realm/Headers (10.39.1)
-  - RealmSwift (10.39.1):
-    - Realm (= 10.39.1)
   - SDWebImage (5.19.1):
     - SDWebImage/Core (= 5.19.1)
   - SDWebImage/Core (5.19.1)
   - SwiftyGif (5.4.5)
 
 DEPENDENCIES:
-  - RealmSwift
   - SDWebImage
   - SwiftyGif
 
 SPEC REPOS:
   trunk:
-    - Realm
-    - RealmSwift
     - SDWebImage
     - SwiftyGif
 
 SPEC CHECKSUMS:
-  Realm: 1f3157edf145f4d9036765ab550c8cb18f62b700
-  RealmSwift: 8a69a1cb788cd5865966f49667b130567e07bceb
   SDWebImage: 40b0b4053e36c660a764958bff99eed16610acbb
   SwiftyGif: 706c60cf65fa2bc5ee0313beece843c8eb8194d4
 
-PODFILE CHECKSUM: bbccf603496bac8dd9929510a0644c58f9482ac0
+PODFILE CHECKSUM: 68a34955edcf23d49459294154a3aa00d8cb63c9
 
-COCOAPODS: 1.15.2
+COCOAPODS: 1.16.2
