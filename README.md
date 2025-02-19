@@ -8,7 +8,7 @@
 - **⬇️ Download:** Download your best movies to watch later.
 - **📲 Seamless YouTube Integration:** Watch movie trailers
 
-## 💻 Technology Used
+## Technology Used
 - **Language & Framework:** Swift & UIKit
 - **Architecture:** MVVM
 - **Navigation Controllers:** TabBar, Search Bar
