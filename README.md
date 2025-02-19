@@ -22,4 +22,4 @@
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/movies-app.git
+   git clone https://github.com/ayamashalyy/moive.git
