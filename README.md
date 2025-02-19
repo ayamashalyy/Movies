@@ -19,6 +19,10 @@
 - **Networking:** URLSession
 - **Storage:** Core Data
 
+## 📸 Screenshots
+### Home Screen
+![Home Screen](path/to/your/image/home_screen.png)
+
 ## 📦 Installation
 1. Clone the repository:
    ```bash
