@@ -21,7 +21,8 @@
 
 ## 🎬 Watch Demo Video
 
-[Download the video](https://github.com/ayamashalyy/Movies/releases/download/v2.0/Screen.Recording.2025-02-20.at.11.40.14.AM.mov)
+[Watch the video](https://drive.google.com/file/d/1Ykxjnz0JmZNw_AS6vTDjbVAKUxE5yDZ5/view?usp=share_link)
+
 
 ##  Installation and Usage
 1. Clone the repository:
