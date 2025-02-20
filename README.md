@@ -21,7 +21,7 @@
 
 ## 🎬 Watch Demo Video
 
-[Watch the video](https://drive.google.com/file/d/1Ykxjnz0JmZNw_AS6vTDjbVAKUxE5yDZ5/view?usp=share_link)
+[Watch the video](https://drive.google.com/file/d/1VdbhHdmk6KtOgXczD_WxioBVAvvxXQyt/view?usp=sharing)
 
 
 ##  Installation and Usage
