@@ -19,9 +19,9 @@
 - **Networking:** URLSession
 - **Storage:** Core Data
 
-## 📸 Screenshots
-### Home Screen
-![Home Screen](path/to/your/image/home_screen.png)
+## 🎬 Watch Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/yfIUGyF3sQE/maxresdefault.jpg)](https://youtu.be/yfIUGyF3sQE)
 
 ##  Installation and Usage
 1. Clone the repository:
